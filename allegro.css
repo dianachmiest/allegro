@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+html {
+    background-color: rgb(241, 241, 241);
+}
+.allegro{
+    float: left;
+padding-left: 30%;
+background-color: rgb(255, 255, 255);
+height: 75px;
+padding-top: 20px;
+color: rgb(255, 103, 15);
+font-family: 'Open Sans', sans-serif;
+font-size: 40px;
+font-weight: 1000;
+text-align: center;
+}
+#wyszukaj{
+    padding: 0 0 0 100px;
+    
+}
+
+.d2{
+    float: left;
+    margin: 10% 10% 0 20%;
+    
+}
+.f1{
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10%;
+    padding: 15% 30% 10% 30%;
+    margin-left: 5%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    
+}
+.p4{
+    margin-bottom: 215%;
+    font-size: 20px;
+    
+}
+.pp{
+    margin-top: 10%;
+    background-color: rgb(255, 255, 255);
+    padding: 10% 230% 340% 160%;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    
+}
+
+
+
